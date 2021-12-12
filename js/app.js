@@ -1,7 +1,7 @@
 /*!
-  @author Mohamed Muntasir
-  @link https://github.com/devmotheg
-  */
+ * @author Mohamed Muntasir
+ * @link https://github.com/devmotheg
+ */
 
 const ACCORDION_HEADINGS_EL = document.querySelectorAll(".accordion__heading");
 
